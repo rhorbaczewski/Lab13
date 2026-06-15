@@ -36,10 +36,10 @@ NETWORK ID     NAME                      DRIVER    SCOPE
 ```
 
 Strona PHP wyświetlana przez serwer nginx na porcie 4001:
-![Strona PHP](screenshots/Zrzut ekranu 2026-06-15 o 17.38.16.png)
+![Strona PHP](screenshots/zrzut1)
 
 Logowanie do phpMyAdmin:
-![phpMyAdmin](screenshots/Zrzut ekranu 2026-06-15 o 17.39.18.png)
+![phpMyAdmin](screenshots/zrzut2)
 
 Utworzenie testowej bazy danych:
-![Baza danych](screenshots/Zrzut ekranu 2026-06-15 o 17.43.52.png)
+![Baza danych](screenshots/zrzut3)
